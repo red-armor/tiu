@@ -1,6 +1,6 @@
 {
   "name": "tiu",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A distribution hub for sync, async or promised tasks",
   "main": "index.js",
   "scripts": {
