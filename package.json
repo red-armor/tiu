@@ -1,0 +1,23 @@
+{
+  "name": "tiu",
+  "version": "0.0.0",
+  "description": "A distribution hub for sync, async or promised tasks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/red-armor/tiu.git"
+  },
+  "keywords": [
+    "tapable",
+    "taskhub"
+  ],
+  "author": "youchaoliu@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/red-armor/tiu/issues"
+  },
+  "homepage": "https://github.com/red-armor/tiu#readme"
+}
